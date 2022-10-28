@@ -2,11 +2,10 @@
  
  Some description!
 
-
 ## subheader
 
 watch tutorial on YouTube.
 
- ## Local Development
+## Local Development
 
- 1. Open index.html in your browser.
+1. Open index.html in your browser.
